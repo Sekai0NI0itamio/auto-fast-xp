@@ -28,7 +28,7 @@ Release right-click to stop.
 
 
 
-- Summary: Wanting to level up fast? Tired of spamming XP bottles? Well this mod cancels that pain, you can just hold right‑click and watch the levels rise.
+- Summary: Automatically throws XP bottles rapidly when you hold right-click. Perfect for quickly gaining XP!
 
 - Loader: `forge`
 
